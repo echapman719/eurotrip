@@ -29,6 +29,7 @@ body {
 
 .watermark {
 	opacity: 0.5;
+	z-index: -1;
 }
 
 .jumbotron {
@@ -83,6 +84,7 @@ body {
 	color: black;
 	opacity: 1;
 	font-family: Courgette;
+	z-index: 2;
 }
 
 .Itinerary_Accomodations {
@@ -93,6 +95,7 @@ body {
 	color: black;
 	opacity: 1;
 	font-family: Courgette;
+	z-index: 1;
 }
 
 .Itinerary_Details {
@@ -103,6 +106,7 @@ body {
 	color: black;
 	opacity: 1;
 	font-family: Courgette;
+	z-index: 0;
 }
 
 .Itinerary_Text {
