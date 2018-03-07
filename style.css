@@ -13,6 +13,10 @@ body {
 	padding: 0px;
 }
 
+/*li {
+	list-style-type: circle;
+}*/
+
 /*h1 {
 	text-align: left;
 }*/
@@ -113,4 +117,18 @@ body {
 	font-family: 'Catamaran';
 	text-decoration: none;
 	font-size: 20px;
+}
+
+.Paris_Video {
+	position: absolute;
+	padding-top: 15%;
+	padding-left: 50%;
+	z-index: 1;
+}
+
+.Brussels_Video {
+	position: absolute;
+	padding-top: 15%;
+	padding-left: 50%;
+	z-index: 1;
 }
